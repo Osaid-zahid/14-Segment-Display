@@ -1,5 +1,5 @@
 # 14-Segment Display
-
+I made this project during my first semester. The constraints included no libraries except iostream and the prohibition of functions.
 Renders arbitrary text as large ASCII-art characters using a 14-segment display encoding.
 
 ## Supported characters
