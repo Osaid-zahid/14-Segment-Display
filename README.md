@@ -7,7 +7,7 @@ Uppercase A–Z, digits 0–9, and the symbols `/ \ , - _` (space also works).
 
 ## Build & run
 ```bash
-g++ -o display q2p2_14segment.cpp
+g++ -o display 14-Segment-Display.cpp
 ./display
 ```
 
